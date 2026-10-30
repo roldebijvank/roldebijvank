@@ -6,14 +6,14 @@ Located in Eindhoven, NL - Looking for internships and working student positions
 <hr>
 
 ### Currently working on
-* [Maching-Engine](https://github.com/roldebijvank/Matching-Engine): A limit order book and matching engine in modern C++, built for low latency and benchmarked
-* Contributing to open-source projects: Working on my first issue for the Zeek project.
+* [Matching-Engine](https://github.com/roldebijvank/Matching-Engine): A limit order book and matching engine in modern C++ (in progress)
+* Contributing to open-source projects: Working on my first issue for [Zeek](https://github.com/zeek/zeek).
 
 ### Selected projects
 | Project | What it is | Stack |
 |---|---|---|
 | [**HW-NAS-Bench-360**](https://github.com/roldebijvank/HW-NAS-Bench-360) | Bachelor thesis: Measuring on-device latency and energy consumption for all 15,625 NAS-Bench-201 architectures on Raspberry Pi 5, Jetson Nano and Pixel 6a, across 3 runtimes and 3 tasks | Python, PyTorch, LiteRT, ONNX Runtime |
-| [**Ransomware simulation**](https://github.com/roldebijvank/2IC80-CMonsterco) | Course project (offensive security lab): XChaCha20-Poly1305 file encryption and an Axum key-management server. Built in a sandbox for educative purposes | Rust |
+| [**Ransomware simulation**](https://github.com/roldebijvank/2IC80-CMonsterco) | Course project (offensive security lab): XChaCha20-Poly1305 file encryption and an Axum key-management server. Built in a sandbox for educational purposes | Rust |
 | [**Matching-Engine**](https://github.com/roldebijvank/Matching-Engine) | Limit order book and matching engine, in progress | C++, CMake |
 
 ### Contact
