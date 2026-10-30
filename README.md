@@ -7,7 +7,6 @@ Located in Eindhoven, NL - Looking for internships and working student positions
 
 ### Currently working on
 * [Matching-Engine](https://github.com/roldebijvank/Matching-Engine): A limit order book and matching engine in modern C++ (in progress)
-* Contributing to open-source projects: Working on my first issue for [Zeek](https://github.com/zeek/zeek).
 
 ### Selected projects
 | Project | What it is | Stack |
